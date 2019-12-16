@@ -34,8 +34,8 @@ The number of elements enetered here shall create images as per this count:
 number of images created per image = num of elements in `rot_command_list`
 
 ## Output
-    ![output-1](./writeup_images/output_thumbnail_for_image-1.jpg)
-    ![output-2](./writeup_images/output_thumbnail_for_image-2.jpg)
+    ![output-1](./writeup_images/output_thumbnail_for_image-1.JPG)
+    ![output-2](./writeup_images/output_thumbnail_for_image-2.JPG)
 ## Python Libraries used    
 * numpy
 * opencv
