@@ -40,4 +40,4 @@ number of images created per image = num of elements in `rot_command_list`
 * numpy
 * opencv
 * Image from PIL
-* import glob
+* glob
