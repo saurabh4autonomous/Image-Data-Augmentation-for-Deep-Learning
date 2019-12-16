@@ -2,6 +2,10 @@
 
 This Repository covers the basic methods to augment image data for Deep Learning
 ---
+[//]: # (Image References)
+
+[image1]: ./writeup_images/output_thumbnail_for_image-1.JPG "output for image-1"
+[image2]: ./writeup_images/output_thumbnail_for_image-2.JPG "output for image-2"
 
 ## Introduction
 Since the degree of model overfitting is determined by both its power and the amount of training it receives, providing a convolutional
@@ -34,8 +38,8 @@ The number of elements enetered here shall create images as per this count:
 number of images created per image = num of elements in `rot_command_list`
 
 ## Output
-    ![output-1](./writeup_images/output_thumbnail_for_image-1.JPG)
-    ![output-2](./writeup_images/output_thumbnail_for_image-2.JPG)
+![alt text][image1]
+![alt text][image2]
 ## Python Libraries used    
 * numpy
 * opencv
